@@ -1,3 +1,4 @@
+ACQUISTO PRODOTTI RMI
 L'obiettivo del progetto è realizzare un' applicazione client-server per l'acquisto di prodotti
 a costo vantaggioso.
 Questa applicazione coinvolge un server e un certo numero di client(almeno 3).
